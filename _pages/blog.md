@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /essays/
-title: 杂谈随笔
+title: 随笔
 nav: true
 nav_order: 5
 pagination:

@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: 我的书架
+title: 书架
 permalink: /books/
 nav: true
 nav_order: 6
