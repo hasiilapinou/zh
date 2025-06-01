@@ -6,7 +6,6 @@ instagram_id: hasiilapinou # your instagram id
 youtube_id: hasiizh # your youtube channel id (youtube.com/@<youtube_id>)
 bluesky_url: https://bsky.app/profile/hasiizh.bsky.social # your bluesky URL
 email: hasii.inbox+zh@gmail.com # your email address
-
 # rss_icon: true # comment this line to hide the RSS icon
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
@@ -50,3 +49,7 @@ email: hasii.inbox+zh@gmail.com # your email address
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
+custom_social: # can be any name here other than the ones already defined above
+  logo: ../assets/img/biolink512.png # can be png, svg, jpg
+  title: biolink
+  url: https://hasiilapinou.bio.link/
