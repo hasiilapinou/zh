@@ -525,6 +525,13 @@ ninja.data = [{
           window.open("mailto:%68%61%73%69%69.%69%6E%62%6F%78+%7A%68@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://hasiilapinou.bio.link/", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
