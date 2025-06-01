@@ -6,12 +6,9 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar_zh_400x400.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,12 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 👋 欢迎来到 Hasii 的世界。
-这里记录着我的声音、影像、文字与阅读，也收藏着生活中温柔而真实的片刻。
-无论你从哪里来，都很高兴我们在这里相遇。
 
-你可以收听我的播客《哈茜说》，看看生活影像《慢时光》，还有简单实用的懒人食谱、旅行笔记、随笔和书架分享。
-希望你在这里感到轻松自在，也许能找到一点灵感、一点陪伴。
+这里汇集了我在声音、影像、文字与阅读中的创作与记录，也会慢慢加入生活中值得分享的小片段，比如懒人食谱、旅行札记、随笔和书架笔记等等。
 
-🔍 开始探索吧！
+🌱 网站正在建设中，内容将陆续上线。
+感谢你的到来，也欢迎常回来看看。🌙
 
 
