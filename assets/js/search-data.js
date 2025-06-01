@@ -14,31 +14,45 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/zh/podcast/index.html";
+            window.location.href = "/zh/podcasts/index.html";
           },
-        },{id: "nav-慢时光录",
-          title: "慢时光录",
+        },{id: "nav-慢时光",
+          title: "慢时光",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/zh/videos/";
           },
-        },{id: "nav-文字随笔",
-          title: "文字随笔",
+        },{id: "nav-食谱",
+          title: "食谱",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/zh/blog/";
+            window.location.href = "/zh/recipes/";
           },
-        },{id: "nav-我的书架",
-          title: "我的书架",
+        },{id: "nav-旅行",
+          title: "旅行",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/zh/travel/";
+          },
+        },{id: "nav-随笔",
+          title: "随笔",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/zh/essays/index.html";
+          },
+        },{id: "nav-书架",
+          title: "书架",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/zh/books/";
           },
-        },{id: "nav-联系方式",
-          title: "联系方式",
+        },{id: "nav-联系",
+          title: "联系",
           description: "",
           section: "Navigation",
           handler: () => {
