@@ -2,7 +2,7 @@
 layout: about
 title: 首页
 permalink: /
-subtitle: 「哈茜小兔·记录一些日子，分享一些想法」
+subtitle: 「哈茜小兔 · 记录一些日子，分享一些想法」
 
 profile:
   align: right
