@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /blog/
-title: 文字随笔
+permalink: /essays/
+title: 杂谈随笔
 nav: true
-nav_order: 3
+nav_order: 5
 pagination:
   enabled: true
   collection: posts

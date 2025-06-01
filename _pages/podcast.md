@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /podcast/
+permalink: /podcasts/
 title: 哈茜说
 nav: true
 nav_order: 1
