@@ -7,7 +7,7 @@ first_name: Hasii
 middle_name: 
 last_name: Lapinou
 contact_note: >
-  Feel free to drop me an email if you'd like to connect or have anything to share.
+  如果有兴趣交流或有内容想与我分享，欢迎通过电子邮件与我联系。
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
