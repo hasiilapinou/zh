@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /podcast/
-title: 播客
+title: 哈茜说
 nav: true
 nav_order: 1
 pagination:

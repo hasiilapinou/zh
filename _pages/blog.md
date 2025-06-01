@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: 博客
+title: 文字随笔
 nav: true
 nav_order: 3
 pagination:
